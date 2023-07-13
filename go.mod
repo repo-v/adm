@@ -1,5 +1,4 @@
-module github.com/GoAdminGroup/adm
-
+module github.com/repo-v/adm
 go 1.16
 
 require (
